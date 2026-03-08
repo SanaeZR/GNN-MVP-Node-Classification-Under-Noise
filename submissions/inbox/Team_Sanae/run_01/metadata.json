@@ -1,7 +1,7 @@
 {
     "team": "Team_Sanae",
     "run_id": "run_01",
-    "author_type": "human + LLM",
+    "author_type": "hybrid",
     "model": "GraphSage",
     "notes": "llm to fix the data loading issue"
   }
